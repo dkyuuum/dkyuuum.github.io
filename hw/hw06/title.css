@@ -1,0 +1,41 @@
+.day {
+    width: 5em;
+    margin-top: 10px;
+}
+.tour {
+    display: grid;
+    grid-template-columns: 90px 2fr 1fr;  
+}
+.tour h2 {
+    
+    font-family: MS Serif;
+    background-color: rgb(112, 159, 247);
+    color: white;
+    border-radius: 3em;
+    padding: 10px;
+    padding-left: 17px;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-shadow: 5px 10px 3px rgb(60, 94, 156);
+}
+.inf {
+    padding-top: 25px;
+    padding-left: 40px;
+}
+a {
+    text-decoration-line: none;
+    color: black;
+}
+.name {
+    padding-top: 40px;
+}  
+.money {
+    padding-top: 10px;
+    padding-left: 15px;
+    float: center;
+    border: 1px outset gray;
+    text-align: center;
+}
+.m {
+    background: pink;
+}
